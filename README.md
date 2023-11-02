@@ -12,6 +12,12 @@ This is the first time I have used the tkinter library to implement the GUI. The
 Clicking each button would take you to a converter, which consists of a textbox in which you can type either a binary string (consisting of only zeroes and ones) or a positive integer. Below the textbox is a ```go back``` button which will take you back to the main menu.
 
 
+
+To run and open the app:
+      1. Make sure you have python3 installed
+      2. type ```python3 main.py``` to run the executable
+
+      
 Feel free to play around with the GUI and the code
 
 Enjoy!
